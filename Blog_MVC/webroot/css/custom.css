@@ -1,0 +1,30 @@
+
+body {
+    background: url('../webroot/img/background.jpeg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.button-middle{
+    position: fixed; /* or absolute */
+    top: 50%;
+   left: 45%;
+}
+.presentation{
+    position: fixed; /* or absolute */
+    top: 20%;
+    left: 43%;
+    color:white;
+    font-size:50px;
+}
+.black{
+    font-size:80px;
+    color:black;
+}
+.admin{
+    position: fixed; /* or absolute */
+    top: 32%;
+   left: 45%;
+}
